@@ -1,17 +1,7 @@
 ### Analytics
 
 [Analytics](https://en.wikipedia.org/wiki/Analytics) is the systematic computational analysis of data or statistics. 
-
  
-- [Metabase](https://metabase.com/) - Easy way for everyone in your company to ask questions and learn from data. ([Source Code](https://github.com/metabase/metabase)) `AGPL-3.0` `Java/Docker`
-- [Middleware](https://middlewarehq.com/) - Tool designed to help engineering leaders measure and analyze the effectiveness of their teams using the DORA metrics. ([Source Code](https://github.com/middlewarehq/middleware)) `Apache-2.0` `Docker/Python/Nodejs`
-- [Mixpost](https://mixpost.app/) - Social media management software to easily create, schedule, publish, and manage social media content in one place (alternative to Hootsuite and Buffer). ([Source Code](https://github.com/inovector/MixpostApp)) `MIT` `PHP/Docker`
-- [Netron](https://netron.app/) - Visualizer for neural network and machine learning models. ([Source Code](https://github.com/lutzroeder/netron)) `MIT` `Python/Nodejs`
-- [Offen](https://www.offen.dev/) - Fair, lightweight and open web analytics tool. Gain insights while your users have full access to their data. ([Demo](https://www.offen.dev/try-demo/), [Source Code](https://github.com/offen/offen)) `Apache-2.0` `Go/Docker`
-- [Plausible Analytics](https://plausible.io/) - Simple, lightweight (< 1 KB) and privacy-friendly web analytics. ([Source Code](https://github.com/plausible/analytics/)) `AGPL-3.0` `Elixir`
-- [PostHog](https://posthog.com) - Product analytics, session recording, feature flagging and a/b testing that you can self-host (alternative to Mixpanel, Amplitude, Heap, HotJar, Optimizely). ([Source Code](https://github.com/posthog/posthog)) `MIT` `Python`
-- [Postiz](https://postiz.com) `⚠` - Schedule posts, track the performance of your content, and manage all your social media accounts in one place (Alternative to Buffer, Hootsuite, Sprout Social). ([Source Code](https://github.com/gitroomhq/postiz-app)) `AGPL-3.0` `Docker`
-- [Prisme Analytics](https://www.prismeanalytics.com) - Privacy-focused and progressive analytics service based on Grafana. ([Source Code](https://github.com/prismelabs/analytics)) `AGPL-3.0/MIT` `Docker`
 - [Redash](http://redash.io) - Connect and query your data sources, build dashboards to visualize data and share them with your company. ([Source Code](https://github.com/getredash/redash)) `BSD-2-Clause` `Docker`
 - [Rybbit](https://rybbit.com/) - Web and products analytics that is easy to setup and more intuitive (alternative to Google Analytics). ([Demo](https://demo.rybbit.com/1), [Source Code](https://github.com/rybbit-io/rybbit)) `AGPL-3.0` `Docker`
 - [Socioboard](https://github.com/socioboard/Socioboard-5.0) `⚠` - Social media management, analytics, and reporting platform supporting nine social media networks out-of-the-box. `GPL-3.0` `Nodejs`
