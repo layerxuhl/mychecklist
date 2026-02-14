@@ -5,12 +5,6 @@
 
 ### E-commerce
 
-**[`^        back to top        ^`](#awesome-selfhosted)**
-
-[E-commerce](https://en.wikipedia.org/wiki/E-commerce) software.
-
-_Related: [Community-Supported Agriculture (CSA)](#community-supported-agriculture-csa)_
-
 - [Aimeos](https://aimeos.org/) - E-commerce framework for building custom online shops, market places and complex B2B applications scaling to billions of items with Laravel. ([Demo](https://demo.aimeos.org/), [Source Code](https://github.com/aimeos/aimeos)) `LGPL-3.0/MIT` `PHP`
 - [Bagisto](https://bagisto.com/en/) - Leading Laravel open source e-commerce framework with multi-inventory sources, taxation, localization, dropshipping and more exciting features. ([Demo](https://demo.bagisto.com/), [Source Code](https://github.com/bagisto/bagisto)) `MIT` `PHP`
 - [CoreShop](https://www.coreshop.org) - E-commerce plugin for Pimcore. ([Source Code](https://github.com/coreshop/CoreShop)) `GPL-3.0` `PHP`
