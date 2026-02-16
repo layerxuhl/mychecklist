@@ -13,20 +13,6 @@
 **Please visit [awesome-sysadmin/Distributed Filesystems](https://github.com/awesome-foss/awesome-sysadmin#distributed-filesystems)**
 
 
-
-### File Transfer - Web-based File Managers
-
-- [Gossa](https://github.com/pldubouilh/gossa) - Light and simple webserver for your files. `MIT` `Go`
-- [IFM](https://github.com/misterunknown/ifm) - Single script file manager. `MIT` `PHP`
-- [mikochi](https://github.com/zer0tonin/Mikochi) - Browse remote folders, upload files, delete, rename, download and stream files to VLC/mpv. `MIT` `Go/Docker/K8S`
-- [miniserve](https://github.com/svenstaro/miniserve) - CLI tool to serve files and dirs over HTTP. `MIT` `Rust`
-- [ResourceSpace](https://www.resourcespace.com) - Simple, fast, and free way to organise your digital assets. ([Demo](https://www.resourcespace.com/trial), [Source Code](https://www.resourcespace.com/svn)) `BSD-4-Clause` `PHP`
-- [slcl](https://gitea.privatedns.org/xavi/slcl) - Simple and lightweight web cloud storage. ([Source Code](https://codeberg.org/xavidcr/slcl)) `AGPL-3.0` `C`
-- [Surfer](https://git.cloudron.io/cloudron/surfer) - Simple static file server with webui to manage files. `MIT` `Nodejs`
-- [TagSpaces](https://www.tagspaces.org/) - TagSpaces is an offline, cross-platform file manager and organiser that also can function as a note taking app. The WebDAV version of the application can be installed on top of a WebDAV servers such as Nextcloud or ownCloud. ([Demo](https://demo.tagspaces.com), [Source Code](https://github.com/tagspaces/tagspaces)) `AGPL-3.0` `Nodejs`
-- [Tiny File Manager](https://tinyfilemanager.github.io) - Web based File Manager in PHP, simple, fast and small file manager with a single file. ([Demo](https://tinyfilemanager.github.io/demo/), [Source Code](https://github.com/prasathmani/tinyfilemanager)) `GPL-3.0` `PHP`
-
-
 ### Games
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
