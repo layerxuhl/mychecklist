@@ -1,11 +1,3 @@
-### Health and Fitness
-
-- [Endurain](https://docs.endurain.com/) - Fitness tracking service designed to give users full control over their data and hosting environment. ([Source Code](https://github.com/endurain-project/endurain)) `AGPL-3.0` `Docker`
-
-- [wger](https://wger.de/) - Web-based personal workout, fitness and weight logger/tracker. It can also be used as a simple gym management utility and offers a full REST API as well. ([Demo](https://wger.de/en/dashboard), [Source Code](https://github.com/wger-project/wger)) `AGPL-3.0` `Python/Docker`
-- [Wingfit](https://wingfit.fr) - Minimalist fitness app to plan your workouts, track your personal records and leverage smartwatch data. ([Demo](https://wingfit.fr/home), [Source Code](https://github.com/itskovacs/wingfit)) `CC-BY-SA-4.0` `Python/Docker`
-
-
 
 
 ### Internet of Things (IoT)
@@ -1130,6 +1122,9 @@ _See also: [Wikimatrix](https://www.wikimatrix.org/), [List of wiki software - W
 
 ### Identity Management
 **Please visit [awesome-sysadmin/Identity Management](https://github.com/awesome-foss/awesome-sysadmin#identity-management)**
+
+### Health and Fitness
+- [Endurain](https://docs.endurain.com/) - Fitness tracking service designed to give users full control over their data and hosting environment. ([Source Code](https://github.com/endurain-project/endurain)) `AGPL-3.0` `Docker`
 
 
 ### Generative Artificial Intelligence (GenAI)
