@@ -1,25 +1,6 @@
-### Knowledge Management Tools
-
-**[`^        back to top        ^`](#awesome-selfhosted)**
-
-[Knowledge management](https://en.wikipedia.org/wiki/Knowledge_management) is the collection of methods relating to creating, sharing, using and managing the knowledge and information.
-
-_Related: [Note-taking & Editors](#note-taking--editors), [Wikis](#wikis), [Database Management](#database-management)_
-
-- [AFFiNE Community Edition](https://affine.pro/) - Next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, customizable and ready to use (alternative to Notion and Miro). ([Demo](https://app.affine.pro/), [Source Code](https://github.com/toeverything/AFFiNE)) `MIT/AGPL-3.0` `Docker`
-- [Atomic Server](https://github.com/atomicdata-dev/atomic-server) - Knowledge graph database with documents (similar to Notion), tables, search, and a powerful linked data API. Lightweight, very fast and no runtime dependencies. ([Demo](https://atomicdata.dev/)) `MIT` `Docker/Rust`
-- [Digimindmap](https://ladigitale.dev/digimindmap/#/) - Create simple mindmaps (documentation in French). ([Demo](https://ladigitale.dev/digimindmap/#/), [Source Code](https://codeberg.org/ladigitale/digimindmap)) `AGPL-3.0` `Nodejs/PHP`
-- [LibreKB](https://librekb.com/) - Web-based knowledge base solution. A simple web app, it runs on pretty much any web server or hosting provider with PHP and MySQL. ([Source Code](https://github.com/michaelstaake/LibreKB/)) `GPL-3.0` `PHP`
-- [memEx](https://gitea.bubbletea.dev/shibao/memEx) - Structured personal knowledge base, inspired by zettlekasten and org-mode. `AGPL-3.0` `Docker`
-- [SiYuan](https://b3log.org/siyuan/) - A privacy-first personal knowledge management software, written in typescript and golang. ([Source Code](https://github.com/siyuan-note/siyuan)) `AGPL-3.0` `Docker/Go`
-- [TeamMapper](https://github.com/b310-digital/teammapper) - Host and create your own mindmaps. Share your mindmap sessions with your team and collaborate live on mindmaps. ([Demo](https://map.kits.blog)) `MIT` `Docker/Nodejs`
-
 
 ### Learning and Courses
-
-**[`^        back to top        ^`](#awesome-selfhosted)**
-
-Tools and software to help with education and learning.
+ 
 
 - [Canvas LMS](https://www.instructure.com/canvas/) - Learning management system (LMS) that is revolutionizing the way we educate. ([Demo](https://canvas.instructure.com/register), [Source Code](https://github.com/instructure/canvas-lms)) `AGPL-3.0` `Ruby`
 - [Chamilo LMS](https://chamilo.org/) - Create a virtual campus for the provision of online or semi-online training. ([Source Code](https://github.com/chamilo/chamilo-lms)) `GPL-3.0` `PHP`
