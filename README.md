@@ -1,8 +1,5 @@
 ### Note-taking & Editors
- 
-- [Docs](https://docs.numerique.gouv.fr/) - Collaborative note taking, wiki and documentation platform that scales. ([Source Code](https://github.com/suitenumerique/docs)) `MIT` `K8S`
-- [draw.io](https://draw.io) - Diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams. ([Source Code](https://github.com/jgraph/drawio)) `Apache-2.0` `Javascript/Docker`
-- [flatnotes](https://github.com/dullage/flatnotes) - Database-less note-taking web app that utilises a flat folder of markdown files for storage. ([Demo](https://demo.flatnotes.io)) `MIT` `Docker`
+
 - [HedgeDoc](https://hedgedoc.org/) - Realtime collaborative markdown notes on all platforms, formerly known as CodiMD and HackMD CE. ([Demo](https://demo.hedgedoc.org/), [Source Code](https://github.com/hedgedoc/hedgedoc)) `AGPL-3.0` `Docker/Nodejs`
 - [Joplin](https://joplinapp.org/) - Note taking application with markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through a self hosted Nextcloud instance or similar (alternative to Evernote). ([Source Code](https://github.com/laurent22/joplin)) `MIT` `Nodejs`
 - [Jotty](https://jotty.page) - Lightweight but powerful alternative for managing your personal, file based, notes and checklists. ([Source Code](https://github.com/fccview/jotty)) `AGPL-3.0` `Docker`
