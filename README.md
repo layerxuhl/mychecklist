@@ -1,6 +1,5 @@
 ### Note-taking & Editors
 
-- [Joplin](https://joplinapp.org/) - Note taking application with markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through a self hosted Nextcloud instance or similar (alternative to Evernote). ([Source Code](https://github.com/laurent22/joplin)) `MIT` `Nodejs`
 - [Jotty](https://jotty.page) - Lightweight but powerful alternative for managing your personal, file based, notes and checklists. ([Source Code](https://github.com/fccview/jotty)) `AGPL-3.0` `Docker`
 - [Many Notes](https://github.com/brufdev/many-notes) - Markdown note-taking web application designed for simplicity. `MIT` `Docker`
 - [Memos](https://usememos.com/) - Knowledge base that works with a SQLite db file. ([Demo](https://demo.usememos.com/explore), [Source Code](https://github.com/usememos/memos)) `MIT` `Docker/Go`
