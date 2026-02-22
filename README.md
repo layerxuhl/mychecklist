@@ -1,6 +1,5 @@
 ### Note-taking & Editors
 
-- [Many Notes](https://github.com/brufdev/many-notes) - Markdown note-taking web application designed for simplicity. `MIT` `Docker`
 - [Memos](https://usememos.com/) - Knowledge base that works with a SQLite db file. ([Demo](https://demo.usememos.com/explore), [Source Code](https://github.com/usememos/memos)) `MIT` `Docker/Go`
 - [Note Mark](https://notemark.docs.enchantedcode.co.uk/) - Minimal web-based Markdown notes app. ([Source Code](https://github.com/enchant97/note-mark)) `AGPL-3.0` `Docker`
 - [Overleaf](https://www.overleaf.com/) - Web-based collaborative LaTeX editor. ([Source Code](https://github.com/overleaf/overleaf)) `AGPL-3.0` `Ruby`
