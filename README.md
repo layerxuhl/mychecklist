@@ -1,6 +1,5 @@
 ### Photo Galleries
 
-- [Immich](https://immich.app/) - Photo and video backup solution directly from your mobile phone. ([Demo](https://github.com/immich-app/immich#demo), [Source Code](https://github.com/immich-app/immich)) `AGPL-3.0` `Docker`
 - [LibrePhotos](https://github.com/LibrePhotos/librephotos) - Photo management service with a slight focus on cool graphs (alternative to Google Photos). ([Clients](https://docs.librephotos.com/docs/user-guide/mobile/)) `MIT` `Python/Docker`
 - [Lychee](https://lycheeorg.github.io/) - Grid and album based photo-management-system. ([Source Code](https://github.com/LycheeOrg/Lychee)) `MIT` `PHP/Docker`
 - [Mediagoblin](https://mediagoblin.org) - Media publishing platform that anyone can run (alternative to Flickr, YouTube, SoundCloud). ([Source Code](https://git.savannah.gnu.org/cgit/mediagoblin.git/tree/)) `AGPL-3.0` `Python`
