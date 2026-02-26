@@ -44,9 +44,7 @@ An [integrated development environment (IDE)](https://en.wikipedia.org/wiki/Inte
 
 _Related: [Software Development - Low Code](#software-development---low-code)_
 
-- [Atheos](https://www.atheos.io) - Web-based IDE framework with a small footprint and minimal requirements, continued from Codiad. ([Source Code](https://github.com/Atheos/Atheos)) `MIT` `PHP/Docker`
-- [code-server](https://github.com/coder/code-server) - VS Code in the browser, hosted on a remote server. `MIT` `Nodejs/Docker`
-- [Coder](https://coder.com/) - Remote development machines on your own infrastructure. ([Source Code](https://github.com/coder/coder)) `AGPL-3.0` `Go/Docker/K8S/deb`
+
 - [Eclipse Che](https://www.eclipse.org/che/) - Open source workspace server and cloud IDE. ([Source Code](https://github.com/eclipse-che/che)) `EPL-1.0` `Docker/Java`
 - [Judge0 CE](https://judge0.com) - API to compile and run source code. ([Source Code](https://github.com/judge0/judge0)) `GPL-3.0` `Docker`
 - [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) - Web-based environment for interactive and reproducible computing. ([Demo](https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/try.jupyter.org?urlpath=lab), [Source Code](https://github.com/jupyterlab/jupyterlab/)) `BSD-3-Clause` `Python/Docker`
