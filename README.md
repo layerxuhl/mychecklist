@@ -10,9 +10,6 @@
 - [Graphweaver](https://graphweaver.com/) - Turn multiple data sources into a single GraphQL API. ([Source Code](https://github.com/exogee-technology/graphweaver)) `MIT` `Nodejs`
 - [Hasura](https://hasura.io) - Fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events. ([Source Code](https://github.com/hasura/graphql-engine)) `Apache-2.0` `Haskell/Docker/K8S`
 - [Hoppscotch Community Edition](https://hoppscotch.io) - Fast and beautiful API request builder. ([Source Code](https://github.com/hoppscotch/hoppscotch)) `MIT` `Nodejs/Docker`
-- [Kong](https://konghq.com/kong/) - Microservice API Gateway and Platform. ([Source Code](https://github.com/Kong/kong)) `Apache-2.0` `Lua/Docker/K8S/deb`
-
-
 
 
 ### Software Development - Localization
