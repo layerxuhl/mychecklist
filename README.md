@@ -19,23 +19,6 @@
 - [Yaade](https://docs.yaade.io/) - Yaade is an open-source, self-hosted, collaborative API development environment. ([Source Code](https://github.com/EsperoTech/yaade)) `MIT` `Docker`
 
 
-
-
-
-### Software Development - Feature Toggle
-
-**[`^        back to top        ^`](#awesome-selfhosted)**
-
-A [feature toggle](https://en.wikipedia.org/wiki/Feature_toggle) in software development provides an alternative to maintaining multiple feature branches in source code.
-
-_Related: [Software Development - IDE & Tools](#software-development---ide--tools)_
-
-- [Featbit](https://www.featbit.co/) - Enterprise-grade feature flag platform that you can self-host. ([Source Code](https://github.com/featbit/featbit)) `MIT` `Docker/K8S`
-- [Flagsmith](https://flagsmith.com) - Dashboard, API and SDKs for adding Feature Flags to your applications (alternative to LaunchDarkly). ([Source Code](https://github.com/flagsmith/flagsmith)) `BSD-3-Clause` `Docker/K8S`
-- [Flipt](https://flipt.io) - Feature flag solution with support for multiple data backends (alternative to LaunchDarkly). ([Source Code](https://github.com/flipt-io/flipt)) `GPL-3.0` `Docker/K8S/Go`
-- [GO Feature Flag](https://gofeatureflag.org) - Simple, complete, and lightweight feature flag solution (alternative to LaunchDarkly). ([Source Code](https://github.com/thomaspoignant/go-feature-flag)) `MIT` `Go`
-
-
 ### Software Development - Localization
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
