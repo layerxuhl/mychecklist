@@ -100,17 +100,6 @@ _Related: [Ticketing](#ticketing), [Task Management & To-do Lists](#task-managem
 
 
 
-### Static Site Generators
-
-**[`^        back to top        ^`](#awesome-selfhosted)**
-
-[Static site generators](https://en.wikipedia.org/wiki/Web_template_system#Static_site_generators) generate full static HTML websites based on raw data, plain text files and a set of templates. 
-
-**Please visit [staticsitegenerators.bevry.me](https://staticsitegenerators.bevry.me), [staticgen.com](https://www.staticgen.com)**
-
-_Related: [Blogging Platforms](#blogging-platforms), [Photo Galleries](#photo-galleries), [Content Management Systems (CMS)](#content-management-systems-cms)_
-
-
 
 ### Status / Uptime pages
 
