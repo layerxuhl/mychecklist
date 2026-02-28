@@ -1,9 +1,3 @@
-### Status / Uptime pages
-
-- [StatPing.ng](https://statping-ng.github.io/) - An easy to use Status Page for your websites and applications. Statping will automatically fetch the application and render a beautiful status page with tons of features for you to build an even better status page. ([Source Code](https://github.com/statping-ng/statping-ng)) `GPL-3.0` `Docker/Go`
-- [Uptime Kuma](https://uptime.kuma.pet/) - Self-hosted website monitoring tool like "Uptime Robot". ([Demo](https://demo.kuma.pet), [Source Code](https://github.com/louislam/uptime-kuma)) `MIT` `Docker/Nodejs`
-
-
 ### Task Management & To-do Lists
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
