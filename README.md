@@ -6,7 +6,6 @@
 
 ### Time Tracking
 
-- [TimeTagger](https://timetagger.app) - An open source time-tracker based on an interactive timeline and powerful reporting. ([Demo](https://timetagger.app/app/demo), [Source Code](https://github.com/almarklein/timetagger)) `GPL-3.0` `Python`
 - [Traggo](https://traggo.net/) - Traggo is a tag-based time tracking tool. In Traggo there are no tasks, only tagged time spans. ([Source Code](https://github.com/traggo/server)) `GPL-3.0` `Docker/Go`
 - [Wakapi](https://wakapi.dev/) - Tracking tool for coding statistics, compatible with WakaTime. ([Source Code](https://github.com/muety/wakapi)) `GPL-3.0` `Go/Docker`
 - [Ziit](https://ziit.app) - The Swiss army knife of code time tracking (alternative to WakaTime). ([Source Code](https://github.com/0pandadev/ziit)) `AGPL-3.0` `Docker`
